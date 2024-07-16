@@ -1,6 +1,6 @@
 CMAKE_MINIMUM_REQUIRED(VERSION 3.14)
 
-PROJECT(SDLCustomGameEngine)
+PROJECT(thetrueboolean)
 
 SET(ENGINE_LIBRARY engine)
 
